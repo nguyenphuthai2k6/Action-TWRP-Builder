@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/nguyenphuthai2k6/android_recovery_vsmart_star4.git'
+        default: 'https://github.com/nguyenphuthai2k6/android_device_vsmart_star4.git'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
